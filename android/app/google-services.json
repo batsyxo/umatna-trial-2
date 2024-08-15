@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473712425330",
+    "project_id": "umatna-trial-2",
+    "storage_bucket": "umatna-trial-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473712425330:android:bef544b7c2b7abf4c605eb",
+        "android_client_info": {
+          "package_name": "com.e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPXlnn82Olps26d9az5Y-KOBkT4FbeFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473712425330:android:6f5969d5d79a1025c605eb",
+        "android_client_info": {
+          "package_name": "com.example.umatna_trial_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPXlnn82Olps26d9az5Y-KOBkT4FbeFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
